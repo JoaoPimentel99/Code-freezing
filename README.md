@@ -26,5 +26,5 @@ O **Verificador de Code Freezing** é uma ferramenta desenvolvida em Python que 
 
 4. Execute o script:
 
-    python verificador.py
+    python code-freezing.py
 
