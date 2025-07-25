@@ -28,3 +28,7 @@ O **Verificador de Code Freezing** é uma ferramenta desenvolvida em Python que 
 
     python code-freezing.py
 
+📄 Requisitos
+
+  Python 3.7+
+
